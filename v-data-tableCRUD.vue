@@ -1,4 +1,12 @@
+
+App.vue
 <template>
+    <production-adding-reserve-table1-component/>
+<template>
+
+
+ProductionAddingReserveTable1.vue
+<template> // name -> production-adding-reserve-table1-component
     <v-app id="inspire">
         <v-data-table
             :headers="headersReserveList"
